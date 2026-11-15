@@ -1,0 +1,14 @@
+{
+  "name": "estimator",
+  "version": "1.0.0",
+  "description": "Material Quantity Estimator CLI",
+  "bin": {
+    "estimator": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
